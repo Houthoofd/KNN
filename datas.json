@@ -1,0 +1,113 @@
+[
+    {
+      "home_team": "Paris Saint-Germain",
+      "away_team": "Manchester City",
+      "home_goals": 2,
+      "away_goals": 1,
+      "possession_home": 48,
+      "possession_away": 52,
+      "shots_home": 10,
+      "shots_away": 8,
+      "result": 1
+    },
+    {
+      "home_team": "Paris Saint-Germain",
+      "away_team": "Manchester City",
+      "home_goals": 1,
+      "away_goals": 3,
+      "possession_home": 45,
+      "possession_away": 55,
+      "shots_home": 8,
+      "shots_away": 12,
+      "result": -1
+    },
+    {
+      "home_team": "Paris Saint-Germain",
+      "away_team": "Manchester City",
+      "home_goals": 2,
+      "away_goals": 2,
+      "possession_home": 50,
+      "possession_away": 50,
+      "shots_home": 9,
+      "shots_away": 9,
+      "result": 0
+    },
+    {
+      "home_team": "Paris Saint-Germain",
+      "away_team": "Manchester City",
+      "home_goals": 3,
+      "away_goals": 2,
+      "possession_home": 52,
+      "possession_away": 48,
+      "shots_home": 12,
+      "shots_away": 10,
+      "result": 1
+    },
+    {
+      "home_team": "Paris Saint-Germain",
+      "away_team": "Manchester City",
+      "home_goals": 2,
+      "away_goals": 2,
+      "possession_home": 55,
+      "possession_away": 45,
+      "shots_home": 11,
+      "shots_away": 8,
+      "result": 0
+    },
+    {
+      "home_team": "Paris Saint-Germain",
+      "away_team": "Manchester City",
+      "home_goals": 0,
+      "away_goals": 1,
+      "possession_home": 40,
+      "possession_away": 60,
+      "shots_home": 6,
+      "shots_away": 12,
+      "result": -1
+    },
+    {
+      "home_team": "Paris Saint-Germain",
+      "away_team": "Manchester City",
+      "home_goals": 2,
+      "away_goals": 3,
+      "possession_home": 49,
+      "possession_away": 51,
+      "shots_home": 9,
+      "shots_away": 10,
+      "result": -1
+    },
+    {
+      "home_team": "Paris Saint-Germain",
+      "away_team": "Manchester City",
+      "home_goals": 3,
+      "away_goals": 0,
+      "possession_home": 60,
+      "possession_away": 40,
+      "shots_home": 14,
+      "shots_away": 6,
+      "result": 1
+    },
+    {
+      "home_team": "Paris Saint-Germain",
+      "away_team": "Manchester City",
+      "home_goals": 1,
+      "away_goals": 1,
+      "possession_home": 52,
+      "possession_away": 48,
+      "shots_home": 10,
+      "shots_away": 10,
+      "result": 0
+    },
+    {
+      "home_team": "Paris Saint-Germain",
+      "away_team": "Manchester City",
+      "home_goals": 2,
+      "away_goals": 2,
+      "possession_home": 50,
+      "possession_away": 50,
+      "shots_home": 12,
+      "shots_away": 11,
+      "result": 0
+    }
+  ]
+  
