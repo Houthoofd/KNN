@@ -6,12 +6,7 @@ class KNN {
     constructor(data) {
         this.intercept = 0;
         this.slope = 0;
-        this.Average = utils_1.Average;
-        this.Variance = utils_1.Variance;
-        this.Covariance = utils_1.Covariance;
-        this.Sigmoid = () => { return (0, utils_1.Sigmoid)(this); };
         this.Train = () => { return (0, utils_1.Train)(this); };
-        this.Predict = () => { return (0, utils_1.Predict)(this); };
         this.data = data;
     }
     // Caractéristiques //

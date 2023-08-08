@@ -13,11 +13,6 @@ export declare class KNN implements IKNN {
     get home_shots(): number[];
     get away_shots(): number[];
     get result(): number[];
-    Average: (array: number[]) => number;
-    Variance: (array: number[]) => number;
-    Covariance: (array1: number[], array2: number[]) => number;
-    Sigmoid: () => number;
     Train: () => void;
-    Predict: () => number[];
 }
 export {};

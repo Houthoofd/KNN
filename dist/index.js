@@ -33,7 +33,7 @@ const KNN_1 = require("./models/KNN");
         }
         let parsed = JSON.parse(data);
         let knn = new KNN_1.KNN(parsed);
-        console.log(knn.home_shots);
+        console.log(knn.away_possession);
     });
 })();
 //# sourceMappingURL=index.js.map

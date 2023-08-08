@@ -14,10 +14,5 @@ var __exportStar = (this && this.__exportStar) || function(m, exports) {
     for (var p in m) if (p !== "default" && !Object.prototype.hasOwnProperty.call(exports, p)) __createBinding(exports, m, p);
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-__exportStar(require("./average"), exports);
-__exportStar(require("./variance"), exports);
 __exportStar(require("./train"), exports);
-__exportStar(require("./covariance"), exports);
-__exportStar(require("./predict"), exports);
-__exportStar(require("./sigmoid"), exports);
 //# sourceMappingURL=index.js.map

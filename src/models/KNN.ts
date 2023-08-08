@@ -1,5 +1,5 @@
 import { DataType } from "./datas";
-import { Average , Variance , Train, Covariance, Predict, Sigmoid } from "../utils";
+import { Train } from "../utils";
 
 interface IKNN{
     /** looool */
@@ -45,10 +45,5 @@ export class KNN implements IKNN{
             return value["result"];
         })
     }
-    Average = Average;
-    Variance = Variance;
-    Covariance = Covariance;
-    Sigmoid = () => { return Sigmoid(this) };
     Train = () => { return Train(this) };
-    Predict = () => { return Predict(this) };
 }
