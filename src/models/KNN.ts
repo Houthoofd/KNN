@@ -1,5 +1,5 @@
 import { DataType } from "./datas";
-import { Train } from "../utils";
+import { Train, PrepareMatrice, GridSearch } from "../utils";
 
 interface IKNN{
     /** looool */
@@ -45,5 +45,7 @@ export class KNN implements IKNN{
             return value["result"];
         })
     }
+    PrepareMatrice = () => { return PrepareMatrice(this)};
+    GridSearch = () => { return GridSearch(this)};
     Train = () => { return Train(this) };
 }

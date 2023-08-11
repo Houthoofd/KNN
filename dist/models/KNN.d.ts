@@ -13,6 +13,8 @@ export declare class KNN implements IKNN {
     get home_shots(): number[];
     get away_shots(): number[];
     get result(): number[];
+    PrepareMatrice: () => number[][][];
+    GridSearch: () => void;
     Train: () => void;
 }
 export {};

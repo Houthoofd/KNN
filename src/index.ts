@@ -10,7 +10,7 @@ import { KNN } from './models/KNN';
         }
         let parsed = JSON.parse(data);
         let knn = new KNN(parsed);
-        console.log(knn.away_possession);
+        knn.GridSearch();
     })
 
 })()

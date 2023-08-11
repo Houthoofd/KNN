@@ -6,6 +6,8 @@ class KNN {
     constructor(data) {
         this.intercept = 0;
         this.slope = 0;
+        this.PrepareMatrice = () => { return (0, utils_1.PrepareMatrice)(this); };
+        this.GridSearch = () => { return (0, utils_1.GridSearch)(this); };
         this.Train = () => { return (0, utils_1.Train)(this); };
         this.data = data;
     }
